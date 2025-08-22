@@ -1,0 +1,11 @@
+date,post_type,topic,text,impressions,reactions,comments,shares
+2025-05-01,carousel,personal,"Sample post 1 about personal",1200,80,12,5
+2025-05-04,image,tech,"Sample post 2 about tech",950,45,6,2
+2025-05-07,text,growth,"Sample post 3 about growth",400,20,2,1
+2025-05-10,carousel,branding,"Sample post 4 about branding",2100,140,22,8
+2025-05-13,image,ai,"Sample post 5 about AI",1800,95,10,6
+2025-05-16,video,tech,"Sample post 6 about tech video",2600,200,30,12
+2025-05-19,text,personal,"Sample post 7 personal",300,15,1,0
+2025-05-22,carousel,ai,"Sample post 8 about AI",1700,110,14,7
+2025-05-25,image,growth,"Sample post 9 about growth",800,35,4,1
+2025-05-28,carousel,branding,"Sample post 10 branding",2400,160,25,9
