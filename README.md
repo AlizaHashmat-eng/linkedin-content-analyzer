@@ -37,5 +37,3 @@ A small analytics project analyzing my last 50 LinkedIn posts to identify which 
 ```bash
 git clone https://github.com/<alizahashmat-eng>/linkedin-content-analyzer.git
 cd linkedin-content-analyzer
-git clone https://github.com/<your-username>/linkedin-content-analyzer.git
-cd linkedin-content-analyzer
